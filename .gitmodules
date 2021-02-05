@@ -1,3 +1,6 @@
 [submodule "caixa-eletronico"]
 	path = caixa-eletronico
 	url = https://github.com/rruffer/caixa-eletronico
+[submodule "caixa-eletronico-front"]
+	path = caixa-eletronico-front
+	url = https://github.com/rruffer/caixa-eletronico-front
