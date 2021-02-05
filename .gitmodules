@@ -1,0 +1,3 @@
+[submodule "caixa-eletronico"]
+	path = caixa-eletronico
+	url = https://github.com/rruffer/caixa-eletronico
