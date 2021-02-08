@@ -1,0 +1,8 @@
+package br.com.rruffer.cadastro.beneficio;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ReceiveMessageHandler {
+
+}
