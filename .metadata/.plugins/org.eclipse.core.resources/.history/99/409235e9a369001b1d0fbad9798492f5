@@ -1,8 +1,0 @@
-package br.com.rruffer.caixa.eletronico.rabbitmq.consumer;
-
-import org.springframework.stereotype.Service;
-
-@Service
-public class ReceiveMessageHandler {
-
-}
